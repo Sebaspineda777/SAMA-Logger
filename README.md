@@ -1,7 +1,6 @@
 # Datalog Station
 
-Estación autónoma de monitoreo IoT (nivel de río, lluvia, clima, humedad de suelo)
-que reporta a las autoridades de gestión del riesgo. Este repositorio contiene el
+Estación autónoma de monitoreo IoT (nivel de río, lluvia, Meteorologicas y Sirena). Este repositorio contiene el
 **hardware (PCB)** y el **firmware** de la estación en un solo lugar, para que cada
 unidad desplegada en campo pueda rastrearse a una revisión de placa + versión de
 código exactas.
@@ -10,7 +9,7 @@ código exactas.
 
 ```
 hardware/   → Proyecto KiCad (esquemático, PCB, gerbers)
-firmware/   → Proyecto PlatformIO (ESP32 / ATtiny85)
+firmware/   → Proyecto PlatformIO (ESP32)
 docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 ```
 
