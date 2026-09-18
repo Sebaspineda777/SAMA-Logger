@@ -1,4 +1,4 @@
-# Datalog Station
+# SAMA Logger
 
 Estación autónoma de monitoreo IoT (nivel de río, lluvia, Meteorologicas y Sirena). Este repositorio contiene el
 **hardware (PCB)** y el **firmware** de la estación en un solo lugar, para que cada
@@ -17,8 +17,8 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 
 | Componente | Versión / Revisión | Notas                          |
 |------------|--------------------|--------------------------------|
-| Firmware   | v1.3.0             | SAMA Datalog                   |
-| PCB        | Rev A              |                                |
+| Firmware   | v1.0.0             | SAMA logger                    |
+| PCB        | Rev 1.2            |                                |
 
 ## Convenciones de versionado
 
@@ -26,13 +26,14 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
   - MAYOR → cambio incompatible
   - MENOR → función nueva compatible
   - PARCHE → corrección de errores
-- **Hardware:** revisiones por letra (`Rev A`, `Rev B`, `Rev C`).
+- **Hardware:** versionado semántico `MAYOR.MENOR`(ej. `1.0`).
   La revisión va **impresa en el serigrafiado de la placa**.
 - Cada estado que se fabrica o se despliega en campo se marca con un **tag** de Git
-  (ej. `fw-v1.3.0`, `hw-revB`).
+  (ej. `fw-v1.3.0`, `hw-Rev1.0`).
 
 ## Registro de despliegues
 
-| Serie / ID unidad | PCB    | Firmware | Ubicación      | Fecha       |
-|-------------------|--------|----------|----------------|-------------|
-| EST-001           | Rev A  | v1.3.0   |                |             |
+| Serie / ID unidad | PCB     | Firmware | Ubicación      | Fecha       |
+|-------------------|-------- |----------|----------------|-------------|
+| SA-3081           | Rev 1.2 | v 0.1.0  | Necoclí        | 08/09/26    |
+
