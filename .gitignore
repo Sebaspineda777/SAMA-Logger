@@ -1,0 +1,21 @@
+# ───────────────────────── KiCad ─────────────────────────
+# Respaldos automáticos y archivos temporales
+*-backups/
+*.bak
+*.kicad_prl        # configuración local del proyecto (por usuario)
+_autosave-*
+*.000
+fp-info-cache
+~*.lck
+\#auto_saved_files\#
+
+# ─────────────────── PlatformIO / firmware ───────────────
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ─────────────────── Editor / Sistema operativo ──────────
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
