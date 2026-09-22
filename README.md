@@ -17,7 +17,7 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 
 | Componente | Versión / Revisión | Notas                          |
 |------------|--------------------|--------------------------------|
-| Firmware   | v1.0.0             | SAMA logger                    |
+| Firmware   | v0.0.1             | SAMA logger                    |
 | PCB        | Rev 1.2            |                                |
 
 ## Convenciones de versionado
@@ -35,5 +35,5 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 
 | Serie / ID unidad | PCB     | Firmware | Ubicación      | Fecha       |
 |-------------------|-------- |----------|----------------|-------------|
-| SA-3081           | Rev 1.2 | v 0.1.0  | Necoclí        | 08/09/26    |
+| SA-3081           | Rev 1.2 | v 0.0.1  | Necoclí        | 08/09/26    |
 
