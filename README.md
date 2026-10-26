@@ -36,7 +36,9 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 | Serie / ID unidad | PCB     | Firmware | Ubicación       | Fecha       |Notas   |
 |-------------------|-------- |----------|-----------------|-------------|--------|
 | SA-3081           | Rev 1.1 | v 0.0.1  | Necoclí         | 08/09/26    | SOLAR  |
-| SA-3082           | Rev 1.1 | v 0.0.2  | Remedios        | 25/09/26    | SOLAR  |
+| SA-3082           | Rev 1.1 | v 0.0.2  | Remedios        | 25/09/26    | SOLAR  Xbee Sin Bidi|
 | SA-3064           | Rev 1.1 | v 0.0.2  | San Pedro Uraba | 02/10/26    | 110VAC |
 | SP-185            | Rev 1.1 | v 0.0.2  | Remedios        | 20/10/26    | SOLAR  |
+| SA-3083           | Rev 1.1 | v 0.0.2  | Apartadó        | 26/10/26    | SOLAR  |
+| SA-3084           | Rev 1.1 | v 0.0.2  | Carepa          | 26/10/26    | SOLAR  |
 
