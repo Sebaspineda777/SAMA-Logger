@@ -17,7 +17,9 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 
 | Componente | Versión / Revisión | Notas                          |
 |------------|--------------------|--------------------------------|
+| Firmware   | v0.0.1             | SAMA logger SCT-013-50A        |
 | Firmware   | v0.0.2             | SAMA logger SCT-013-10A        |
+| Firmware   | v0.0.3             | SAMA logger Ventilación Activa |
 | PCB        | Rev 1.2            |                                |
 
 ## Convenciones de versionado
@@ -39,6 +41,8 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 | SA-3082           | Rev 1.1 | v 0.0.2  | Remedios        | 25/09/26    | SOLAR  Xbee Sin Bidi|
 | SA-3064           | Rev 1.1 | v 0.0.2  | San Pedro Uraba | 02/10/26    | 110VAC |
 | SP-185            | Rev 1.1 | v 0.0.2  | Remedios        | 20/10/26    | SOLAR  |
-| SA-3083           | Rev 1.1 | v 0.0.2  | Apartadó        | 26/10/26    | SOLAR  |
+| SA-3083           | Rev 1.1 | v 0.0.2  | Apartadó        | 26/10/26    | SOLAR con Pilotos  |
 | SA-3084           | Rev 1.1 | v 0.0.2  | Carepa          | 26/10/26    | SOLAR  |
+| SA-3085           | Rev 1.1 | v 0.0.3  | San Juan Uraba  | 03/11/26    | SOLAR Gab Viejo |
+| SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes       | 03/11/26    | SOLAR Gab Viejo |
 
