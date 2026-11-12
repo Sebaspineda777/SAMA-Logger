@@ -20,6 +20,8 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 | Firmware   | v0.0.1             | SAMA logger SCT-013-50A        |
 | Firmware   | v0.0.2             | SAMA logger SCT-013-10A        |
 | Firmware   | v0.0.3             | SAMA logger Ventilación Activa |
+| Firmware   | v0.1.3             | SAMA logger Cambio de RTC y Sensor de corriente DC |
+| PCB        | Rev 1.1            |                                |
 | PCB        | Rev 1.2            |                                |
 
 ## Convenciones de versionado
@@ -47,4 +49,5 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 | SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes          | 03/11/26    | SOLAR Gab Viejo |
 | SA-3087           | Rev 1.1 | v 0.0.3  | San Pedro de Úraba | 09/11/26    | SOLAR Gab Viejo |
 | SA-3088           | Rev 1.1 | v 0.0.3  | Chigorodo          | 09/11/26    | SOLAR Gab Viejo |
+| SA-3089           | Rev 1.2 | v 0.1.3  | Vigia del Fuerte   | 11/11/26    | SOLAR sin Transmisión|
 
