@@ -45,10 +45,12 @@ Notas:Apartir de la 3086 se cambio en el payload fecha por timestamp.
 | SA-3064           | Rev 1.1 | v 0.0.2  | San Pedro de Úraba | 02/10/26    | 110VAC |
 | SP-185            | Rev 1.1 | v 0.0.2  | Remedios           | 20/10/26    | SOLAR  |
 | SA-3083           | Rev 1.1 | v 0.0.2  | Apartadó           | 26/10/26    | SOLAR con Pilotos  |
-| SA-3084           | Rev 1.1 | v 0.0.2  | Carepa             | 26/10/26    | SOLAR  |
-| SA-3085           | Rev 1.1 | v 0.0.3  | San Juan Uraba     | 03/11/26    | SOLAR Gab Viejo |
-| SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes          | 03/11/26    | SOLAR Gab Viejo |
-| SA-3087           | Rev 1.1 | v 0.0.3  | San Pedro de Úraba | 09/11/26    | SOLAR Gab Viejo |
-| SA-3088           | Rev 1.1 | v 0.0.3  | Chigorodo          | 09/11/26    | SOLAR Gab Viejo |
+| SA-3084           | Rev 1.1 | v 0.0.2  | Carepa             | 26/10/26    | SOLAR              |
+| SA-3085           | Rev 1.1 | v 0.0.3  | San Juan Uraba     | 03/11/26    | SOLAR Gab Viejo    |
+| SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes          | 03/11/26    | SOLAR Gab Viejo    |
+| SA-3087           | Rev 1.1 | v 0.0.3  | San Pedro de Úraba | 09/11/26    | SOLAR Gab Viejo    |
+| SA-3088           | Rev 1.1 | v 0.0.3  | Chigorodo          | 09/11/26    | SOLAR Gab Viejo    |
 | SA-3089           | Rev 1.2 | v 0.1.3  | Vigia del Fuerte   | 11/11/26    | SOLAR sin Transmisión|
+| SA-3049           | Rev 1.1 | v 0.1.3  | Murindo 1          | 17/11/26    | SOLAR con Pilotos    |
+| SA-3058           | Rev 1.1 | v 0.1.3  | Murindo 2          | 07/11/26    | SOLAR con Pilotos    |
 
