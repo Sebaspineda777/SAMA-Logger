@@ -36,6 +36,7 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
   (ej. `fw-v1.3.0`, `hw-Rev1.0`).
 
 ## Registro de despliegues
+Notas:Apartir de la 3086 se cambio en el payload fecha por timestamp.
 
 | Serie / ID unidad | PCB     | Firmware | Ubicación          | Fecha       |Notas   |
 |-------------------|-------- |----------|--------------------|-------------|--------|
