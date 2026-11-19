@@ -51,6 +51,6 @@ Notas:Apartir de la 3086 se cambio en el payload fecha por timestamp.
 | SA-3087           | Rev 1.1 | v 0.0.3  | San Pedro de Úraba | 09/11/26    | SOLAR Gab Viejo    |
 | SA-3088           | Rev 1.1 | v 0.0.3  | Chigorodo          | 09/11/26    | SOLAR Gab Viejo    |
 | SA-3089           | Rev 1.2 | v 0.1.3  | Vigia del Fuerte   | 11/11/26    | SOLAR sin Transmisión|
-| SA-3049           | Rev 1.1 | v 0.1.3  | Murindo 1          | 17/11/26    | SOLAR con Pilotos    |
-| SA-3058           | Rev 1.1 | v 0.1.3  | Murindo 2          | 07/11/26    | SOLAR con Pilotos    |
+| SA-3049           | Rev 1.2 | v 0.1.3  | Murindo 1          | 17/11/26    | SOLAR con Pilotos    |
+| SA-3058           | Rev 1.2 | v 0.1.3  | Murindo 2          | 07/11/26    | SOLAR con Pilotos    |
 
